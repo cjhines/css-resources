@@ -1,13 +1,15 @@
-# BEM: Block Element Modifier - [Link](http://getbem.com/introduction/)
+# Convention Standards
+
+## BEM: Block Element Modifier - [Link](http://getbem.com/introduction/)
 BEM is a naming convention standard for CSS class names. It has fairly wide adoption and is immensely useful in writing CSS that is easier to read, understand, and scale.
 
-# OOCSS: Object Oriented CSS - [Link](https://github.com/stubbornella/oocss/wiki)
+## OOCSS: Object Oriented CSS - [Link](https://github.com/stubbornella/oocss/wiki)
 Object Oriented CSS (OOCSS), an approach made popular by the work of Nicole Sullivan. The basic idea of OOCSS is to separate your CSS into reusable objects, which can be used anywhere you need on your site.
 
-# SMACSS - [Link](http://smacss.com/book/categorizing)
+## SMACSS - [Link](http://smacss.com/book/categorizing)
 Scalable and Modular Architecture for CSS: A CSS style-guide which follows five categories.
 
-# SUITCSS - [Link](http://suitcss.github.io/)
+## SUITCSS - [Link](http://suitcss.github.io/)
 A "reliable and testable" styling methodology for component-based UI development. A collection of CSS packages and build tools are also available as modules.
 
 # CSS + JS discussion
