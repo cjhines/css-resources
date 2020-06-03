@@ -4,6 +4,9 @@ Object Oriented CSS (OOCSS), an approach made popular by the work of Nicole Sull
 # SMACSS - [Link](http://smacss.com/book/categorizing)
 Scalable and Modular Architecture for CSS: A CSS style-guide which follows five categories.
 
+# SUITCSS - [Link](http://suitcss.github.io/)
+A "reliable and testable" styling methodology for component-based UI development. A collection of CSS packages and build tools are also available as modules.
+
 # JS / CSS discussion
 
 * 2017
