@@ -7,10 +7,8 @@ Scalable and Modular Architecture for CSS: A CSS style-guide which follows five 
 # SUITCSS - [Link](http://suitcss.github.io/)
 A "reliable and testable" styling methodology for component-based UI development. A collection of CSS packages and build tools are also available as modules.
 
-# JS / CSS discussion
+# CSS + JS discussion
 
-* 2017
-    * [Stop using CSS in JavaScript for web development](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
+* [Stop using CSS in JavaScript for web development (2017)](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
 
-* 2018
-    * [September: How To Set Up A CSS Architecture For React Apps](https://medium.com/@markmuskardin/intro-to-css-architecture-for-react-apps-da0ec1753c86)
+* [How To Set Up A CSS Architecture For React Apps (2018)](https://medium.com/@markmuskardin/intro-to-css-architecture-for-react-apps-da0ec1753c86)
