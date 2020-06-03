@@ -1,5 +1,8 @@
 # OOCSS: Object Oriented CSS - [Link](https://github.com/stubbornella/oocss/wiki)
-Object Oriented CSS (OOCSS), an approach made popular by the work of Nicole Sullivan. The basic idea of OOCSS is to separate your CSS into reusable objects, which can be used anywhere you need on your site. 
+Object Oriented CSS (OOCSS), an approach made popular by the work of Nicole Sullivan. The basic idea of OOCSS is to separate your CSS into reusable objects, which can be used anywhere you need on your site.
+
+# SMACSS - [Link](http://smacss.com/book/categorizing)
+Scalable and Modular Architecture for CSS: A CSS style-guide which follows five categories.
 
 # JS / CSS discussion
 
