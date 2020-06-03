@@ -7,7 +7,13 @@ BEM is a naming convention standard for CSS class names. It has fairly wide adop
 Object Oriented CSS (OOCSS), an approach made popular by the work of Nicole Sullivan. The basic idea of OOCSS is to separate your CSS into reusable objects, which can be used anywhere you need on your site.
 
 ## SMACSS - [Link](http://smacss.com/book/categorizing)
-Scalable and Modular Architecture for CSS: A CSS style-guide which follows five categories.
+SMACSS stands for Scalable and Modular Architecture for CSS. It is a CSS style-guide which follows five categories:
+
+* Base
+* Layout
+* Module
+* State
+* Theme
 
 ## SUITCSS - [Link](http://suitcss.github.io/)
 A "reliable and testable" styling methodology for component-based UI development. A collection of CSS packages and build tools are also available as modules.
