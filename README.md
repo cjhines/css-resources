@@ -1,3 +1,6 @@
+# BEM: Block Element Modifier - [Link](http://getbem.com/introduction/)
+BEM is a naming convention standard for CSS class names. It has fairly wide adoption and is immensely useful in writing CSS that is easier to read, understand, and scale.
+
 # OOCSS: Object Oriented CSS - [Link](https://github.com/stubbornella/oocss/wiki)
 Object Oriented CSS (OOCSS), an approach made popular by the work of Nicole Sullivan. The basic idea of OOCSS is to separate your CSS into reusable objects, which can be used anywhere you need on your site.
 
