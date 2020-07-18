@@ -1,3 +1,12 @@
+Table of contents
+=================
+
+<!--ts-->
+   * [Table of contents](#table-of-contents)
+   * [Convention Standards](#convention-standards)
+
+<!--te-->
+
 # Convention Standards
 
 ## BEM: Block Element Modifier - [Link](http://getbem.com/introduction/)
