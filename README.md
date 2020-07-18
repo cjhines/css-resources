@@ -1,3 +1,12 @@
+Table of contents
+=================
+
+<!--ts-->
+   * [Table of contents](#table-of-contents)
+   * [Convention Standards](#convention-standards)
+   * [CSS and JavaScript](#css-and-javascript)
+<!--te-->
+
 # Convention Standards
 
 ## BEM: Block Element Modifier - [Link](http://getbem.com/introduction/)
@@ -18,7 +27,7 @@ SMACSS stands for Scalable and Modular Architecture for CSS. It is a CSS style-g
 ## SUITCSS - [Link](http://suitcss.github.io/)
 A "reliable and testable" styling methodology for component-based UI development. A collection of CSS packages and build tools are also available as modules.
 
-# CSS + JS discussion
+# CSS and JavaScript
 
 * [Stop using CSS in JavaScript for web development (2017)](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
 
