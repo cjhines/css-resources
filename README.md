@@ -5,6 +5,7 @@ Table of contents
    * [Table of contents](#table-of-contents)
    * [Convention Standards](#convention-standards)
    * [CSS and JavaScript](#css-and-javascript)
+   * [Specificity](#specificity)
 <!--te-->
 
 # Convention Standards
@@ -32,3 +33,7 @@ A "reliable and testable" styling methodology for component-based UI development
 * [Stop using CSS in JavaScript for web development (2017)](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
 
 * [How To Set Up A CSS Architecture For React Apps (2018)](https://medium.com/@markmuskardin/intro-to-css-architecture-for-react-apps-da0ec1753c86)
+
+# Specificity
+
+Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied. Specificity is based on the matching rules which are composed of different sorts of CSS selectors.
